@@ -1,0 +1,6 @@
+{
+  "name": "The Fibonacci Sequence - The Mathematics Hidden in Nature",
+  "description": "An interactive mathematics museum exhibition exploring the Fibonacci sequence, golden ratio, spiral geometry, natural phyllotaxis, and algorithmic foundations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
